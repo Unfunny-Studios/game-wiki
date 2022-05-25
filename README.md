@@ -1,2 +1,2 @@
-# game-wiki
-design documents, plans, and concepts for the game
+# [NameOfGame]
+[NameOfGame] is a [describe game]
